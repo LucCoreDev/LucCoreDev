@@ -1,4 +1,4 @@
-<div align="center"><img width= "600" hight="700" alt="Imagem de fundo com meu nome" src="fundo.png"> </div> 
+<div align="center"><img width= "400" hight="500" alt="Imagem de fundo com meu nome" src="fundo.png"> </div> 
 
 [By FreePick](https://br.freepik.com)
 
