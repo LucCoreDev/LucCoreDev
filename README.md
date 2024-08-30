@@ -1,4 +1,8 @@
-<img width= "1000" alt="Imagem de fundo com meu nome" src="fundo.png"> [By FreePick](https://br.freepik.com)
+<div align="center"><img width= "600" hight="700" alt="Imagem de fundo com meu nome" src="fundo.png"> </div> 
+
+[By FreePick](https://br.freepik.com)
+
+
 
 ### **(En)**
 <div align = "center">I’m a software developer in training with 7 months of experience and currently studying Computer Science at Universidade Veiga de Almeida. I’m excited to apply the knowledge I’ve gained to challenging projects and am always seeking new technologies to expand my skills. My journey in software development is just beginning, and I’m eager to grow in the field and contribute to innovations in the tech industry.
